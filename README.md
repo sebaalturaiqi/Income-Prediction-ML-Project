@@ -1,4 +1,4 @@
-
+link : https://colab.research.google.com/drive/1RVb9gxtn4cG_JzYJ7bnVpFHbtgH3xocd?usp=sharing#scrollTo=K3Ff6znWFE-G
 # Machine Learning Project: Adult Income Prediction
 
 ## Project Goal
