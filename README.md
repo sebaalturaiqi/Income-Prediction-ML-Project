@@ -35,3 +35,20 @@ The project includes an interactive local deployment using `ipywidgets`, allowin
 2. Install dependencies: `pip install autogluon ipywidgets`.
 3. Open `Untitled5.ipynb` in Google Colab or Jupyter Notebook.
 4. Run all cells to train the model and launch the interactive app.
+
+   ##Project Resources
+
+1. Primary Dataset Source:
+UCI Machine Learning Repository: Adult Income Dataset.
+Link: https://archive.ics.uci.edu/dataset/2/adult
+Description: The original source for the census data used to train the model, containing demographic features and income labels.
+2. Data Documentation & Feature Analysis:
+Kaggle - Adult Census Income: Detailed Feature Explanation.
+Link: https://www.kaggle.com/datasets/uciml/adult-census-income
+Description: Provides insights into variable definitions, including technical terms like Capital Gain and its socioeconomic impact.
+3. Deployment & UI Framework:
+Gradio Documentation: Building Machine Learning Interfaces.
+Link: https://www.gradio.app/docs/
+Description: Technical guide used to develop the interactive user interface (UI) for model inference and testing.
+
+
